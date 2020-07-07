@@ -1,0 +1,36 @@
+{
+  "name": "task-5.2",
+  "version": "1.0.0",
+  "description": "classes-task-5.2",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiRover/ajs-homework-classes-5.2.git"
+  },
+  "keywords": [
+    "task-5.2"
+  ],
+  "author": "Dmiytiy Rovenskiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiRover/ajs-homework-classes-5.2/issues"
+  },
+  "homepage": "https://github.com/DiRover/ajs-homework-classes-5.2#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.10.4",
+    "@babel/core": "^7.10.4",
+    "@babel/preset-env": "^7.10.4",
+    "babel-jest": "^26.1.0",
+    "eslint": "^7.4.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "jest": "^26.1.0"
+  },
+  "dependencies": {
+    "core-js": "^3.6.5"
+  }
+}

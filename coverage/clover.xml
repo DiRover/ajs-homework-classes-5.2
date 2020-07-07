@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1594147347599" clover="3.2.0">
+  <project timestamp="1594147347600" name="All files">
+    <metrics statements="21" coveredstatements="17" conditionals="17" coveredconditionals="13" methods="3" coveredmethods="3" elements="41" coveredelements="33" complexity="0" loc="21" ncloc="21" packages="1" files="7" classes="7"/>
+    <file name="Bowman.js" path="E:\IT_and_programing\Frontend\8.0_Homeworks\Task-5.2\js\Bowman.js">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+    </file>
+    <file name="Character.js" path="E:\IT_and_programing\Frontend\8.0_Homeworks\Task-5.2\js\Character.js">
+      <metrics statements="21" coveredstatements="17" conditionals="17" coveredconditionals="13" methods="3" coveredmethods="3"/>
+      <line num="3" count="6" type="cond" truecount="4" falsecount="1"/>
+      <line num="4" count="6" type="stmt"/>
+      <line num="6" count="0" type="stmt"/>
+      <line num="8" count="6" type="cond" truecount="7" falsecount="1"/>
+      <line num="9" count="6" type="stmt"/>
+      <line num="11" count="0" type="stmt"/>
+      <line num="13" count="6" type="stmt"/>
+      <line num="14" count="6" type="stmt"/>
+      <line num="15" count="6" type="stmt"/>
+      <line num="16" count="6" type="stmt"/>
+      <line num="17" count="6" type="stmt"/>
+      <line num="21" count="6" type="cond" truecount="1" falsecount="1"/>
+      <line num="22" count="6" type="stmt"/>
+      <line num="23" count="6" type="stmt"/>
+      <line num="24" count="6" type="stmt"/>
+      <line num="25" count="6" type="stmt"/>
+      <line num="26" count="6" type="stmt"/>
+      <line num="35" count="0" type="stmt"/>
+      <line num="39" count="6" type="cond" truecount="1" falsecount="1"/>
+      <line num="40" count="6" type="stmt"/>
+      <line num="42" count="0" type="stmt"/>
+    </file>
+    <file name="Daemon.js" path="E:\IT_and_programing\Frontend\8.0_Homeworks\Task-5.2\js\Daemon.js">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+    </file>
+    <file name="Magician.js" path="E:\IT_and_programing\Frontend\8.0_Homeworks\Task-5.2\js\Magician.js">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+    </file>
+    <file name="Swordsman.js" path="E:\IT_and_programing\Frontend\8.0_Homeworks\Task-5.2\js\Swordsman.js">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+    </file>
+    <file name="Undead.js" path="E:\IT_and_programing\Frontend\8.0_Homeworks\Task-5.2\js\Undead.js">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+    </file>
+    <file name="Zombie.js" path="E:\IT_and_programing\Frontend\8.0_Homeworks\Task-5.2\js\Zombie.js">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+    </file>
+  </project>
+</coverage>
